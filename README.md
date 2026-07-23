@@ -1,3 +1,5 @@
+Name : Naveen k
+Reg no : 212224060170
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
 ## AIM:
 To become familiar with microwave components and instruments available in the laboratory.
